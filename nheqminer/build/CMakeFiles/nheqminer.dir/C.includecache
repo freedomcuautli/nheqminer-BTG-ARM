@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2-impl.h
+stdint.h
+-
+string.h
+-
+
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2.h
+stddef.h
+-
+stdint.h
+-
+
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2b-ref.c
+stdint.h
+-
+string.h
+-
+stdio.h
+-
+blake2.h
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2.h
+blake2-impl.h
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2-impl.h
+string.h
+-
+blake2-kat.h
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/trompequihash/blake2-ref/blake2-kat.h
+

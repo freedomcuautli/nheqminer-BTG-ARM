@@ -1,0 +1,3 @@
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/build/CMakeFiles/edit_cache.dir
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/build/CMakeFiles/rebuild_cache.dir
+/home/tinkerboard/altnheqminer/nheqminer/nheqminer/build/CMakeFiles/nheqminer.dir
